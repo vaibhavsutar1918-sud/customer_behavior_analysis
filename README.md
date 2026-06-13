@@ -4,7 +4,7 @@ Overview
 
 This project analyzes customer shopping behavior to identify purchasing patterns, customer preferences, and key business insights. The analysis was performed using Python, SQL, and Power BI to transform raw data into actionable insights for decision-making.
 
-**Dataset****
+**Dataset**
 
 Dataset: Customer Shopping Behavior Dataset
 Records: 3,900 customers
@@ -31,7 +31,9 @@ Gamma AI (Presentation)
 **Data Loading & Cleaning**
 
 Imported customer shopping data into Python using Pandas.
+
 Checked data quality and handled inconsistencies.
+
 Prepared the dataset for analysis and visualization.
 
  **Exploratory Data Analysis (EDA)** 
